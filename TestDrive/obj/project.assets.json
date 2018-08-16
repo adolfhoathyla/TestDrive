@@ -341,23 +341,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/adolfhoathyla/.nuget/packages/": {},
+    "/Users/cmdev/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adolfhoathyla/Projects/TestDrive/TestDrive/TestDrive.csproj",
+      "projectUniqueName": "/Users/cmdev/Documents/TestDrive/TestDrive/TestDrive.csproj",
       "projectName": "TestDrive",
-      "projectPath": "/Users/adolfhoathyla/Projects/TestDrive/TestDrive/TestDrive.csproj",
-      "packagesPath": "/Users/adolfhoathyla/.nuget/packages/",
-      "outputPath": "/Users/adolfhoathyla/Projects/TestDrive/TestDrive/obj",
+      "projectPath": "/Users/cmdev/Documents/TestDrive/TestDrive/TestDrive.csproj",
+      "packagesPath": "/Users/cmdev/.nuget/packages/",
+      "outputPath": "/Users/cmdev/Documents/TestDrive/TestDrive/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/adolfhoathyla/.config/NuGet/NuGet.Config"
+        "/Users/cmdev/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

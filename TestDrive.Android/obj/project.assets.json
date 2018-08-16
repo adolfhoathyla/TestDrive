@@ -758,19 +758,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/adolfhoathyla/.nuget/packages/": {}
+    "/Users/cmdev/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adolfhoathyla/Projects/TestDrive/TestDrive.Android/TestDrive.Android.csproj",
+      "projectUniqueName": "/Users/cmdev/Documents/TestDrive/TestDrive.Android/TestDrive.Android.csproj",
       "projectName": "TestDrive.Android",
-      "projectPath": "/Users/adolfhoathyla/Projects/TestDrive/TestDrive.Android/TestDrive.Android.csproj",
-      "packagesPath": "/Users/adolfhoathyla/.nuget/packages/",
-      "outputPath": "/Users/adolfhoathyla/Projects/TestDrive/TestDrive.Android/obj",
+      "projectPath": "/Users/cmdev/Documents/TestDrive/TestDrive.Android/TestDrive.Android.csproj",
+      "packagesPath": "/Users/cmdev/.nuget/packages/",
+      "outputPath": "/Users/cmdev/Documents/TestDrive/TestDrive.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/adolfhoathyla/.config/NuGet/NuGet.Config"
+        "/Users/cmdev/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"
@@ -781,8 +781,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/adolfhoathyla/Projects/TestDrive/TestDrive/TestDrive.csproj": {
-              "projectPath": "/Users/adolfhoathyla/Projects/TestDrive/TestDrive/TestDrive.csproj"
+            "/Users/cmdev/Documents/TestDrive/TestDrive/TestDrive.csproj": {
+              "projectPath": "/Users/cmdev/Documents/TestDrive/TestDrive/TestDrive.csproj"
             }
           }
         }

@@ -1,12 +1,12 @@
-/Users/adolfhoathyla/Projects/TestDrive/TestDrive.iOS/bin/iPhoneSimulator/Debug/TestDrive.iOS.exe
+/Users/cmdev/Documents/TestDrive/TestDrive.iOS/bin/iPhoneSimulator/Debug/TestDrive.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/mscorlib.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/System.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/Mono.Security.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/System.Xml.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/System.Core.dll
-/Users/adolfhoathyla/.nuget/packages/xamarin.forms/3.0.0.482510/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll
-/Users/adolfhoathyla/.nuget/packages/xamarin.forms/3.0.0.482510/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll
+/Users/cmdev/.nuget/packages/xamarin.forms/3.0.0.482510/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll
+/Users/cmdev/.nuget/packages/xamarin.forms/3.0.0.482510/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/Facades/netstandard.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/System.Data.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/System.Numerics.dll
@@ -27,6 +27,6 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/System.Web.Services.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XDocument.dll
-/Users/adolfhoathyla/.nuget/packages/xamarin.forms/3.0.0.482510/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
-/Users/adolfhoathyla/Projects/TestDrive/TestDrive/bin/Debug/netstandard2.0/TestDrive.dll
-/Users/adolfhoathyla/.nuget/packages/xamarin.forms/3.0.0.482510/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
+/Users/cmdev/.nuget/packages/xamarin.forms/3.0.0.482510/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
+/Users/cmdev/Documents/TestDrive/TestDrive/bin/Debug/netstandard2.0/TestDrive.dll
+/Users/cmdev/.nuget/packages/xamarin.forms/3.0.0.482510/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll

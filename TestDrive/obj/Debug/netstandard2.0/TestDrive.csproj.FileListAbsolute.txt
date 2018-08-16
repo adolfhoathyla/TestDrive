@@ -7,3 +7,12 @@
 /Users/adolfhoathyla/Projects/TestDrive/TestDrive/obj/Debug/netstandard2.0/TestDrive.AssemblyInfo.cs
 /Users/adolfhoathyla/Projects/TestDrive/TestDrive/obj/Debug/netstandard2.0/TestDrive.dll
 /Users/adolfhoathyla/Projects/TestDrive/TestDrive/obj/Debug/netstandard2.0/TestDrive.pdb
+/Users/cmdev/Documents/TestDrive/TestDrive/bin/Debug/netstandard2.0/TestDrive.deps.json
+/Users/cmdev/Documents/TestDrive/TestDrive/bin/Debug/netstandard2.0/TestDrive.dll
+/Users/cmdev/Documents/TestDrive/TestDrive/bin/Debug/netstandard2.0/TestDrive.pdb
+/Users/cmdev/Documents/TestDrive/TestDrive/obj/Debug/netstandard2.0/TestDrive.csprojResolveAssemblyReference.cache
+/Users/cmdev/Documents/TestDrive/TestDrive/obj/Debug/netstandard2.0/TestDrive.csproj.CoreCompileInputs.cache
+/Users/cmdev/Documents/TestDrive/TestDrive/obj/Debug/netstandard2.0/TestDrive.AssemblyInfoInputs.cache
+/Users/cmdev/Documents/TestDrive/TestDrive/obj/Debug/netstandard2.0/TestDrive.AssemblyInfo.cs
+/Users/cmdev/Documents/TestDrive/TestDrive/obj/Debug/netstandard2.0/TestDrive.dll
+/Users/cmdev/Documents/TestDrive/TestDrive/obj/Debug/netstandard2.0/TestDrive.pdb
