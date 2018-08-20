@@ -7,7 +7,7 @@ namespace TestDrive.Views
 {
     public partial class DetalheView : ContentPage
     {
-        public Veiculo veiculo
+        public Veiculo Veiculo
         {
             get;
             set;
@@ -17,13 +17,13 @@ namespace TestDrive.Views
         {
             InitializeComponent();
 
-            this.Title = veiculo.Nome;
-            this.veiculo = veiculo;
+            this.Veiculo = veiculo;
+            this.BindingContext = this;
         }
 
         void Handle_Clicked(object sender, System.EventArgs e)
         {
-            Navigation.PushAsync(new AgendamentoView(this.veiculo));
+            Navigation.PushAsync(new AgendamentoView(this.Veiculo));
         }
     }
 }
