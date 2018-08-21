@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TestDrive.Views.DetalheView" Title="{Binding Veiculo.Nome}">
-    <Button x:Name="buttonProximo" Text="Próximo" Clicked="Handle_Clicked" VerticalOptions="End"></Button>
+    <StackLayout>
+        <TableView>
+            <TableRoot>
+                <TableSection Title="Acessórios">
+                    <SwitchCell Text="{Binding FreioABS.Resumo}" On="true"></SwitchCell>  
+                    <SwitchCell Text="{Binding ArCondicionado.Resumo}"></SwitchCell>
+                    <SwitchCell Text="{Binding Mp3Player.Resumo}"></SwitchCell>
+                    <TextCell Text="Total: R$ 5000,00"></TextCell>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+        <Button x:Name="buttonProximo" Text="Próximo" Clicked="Handle_Clicked" VerticalOptions="End"></Button>
+    </StackLayout>
 </ContentPage>

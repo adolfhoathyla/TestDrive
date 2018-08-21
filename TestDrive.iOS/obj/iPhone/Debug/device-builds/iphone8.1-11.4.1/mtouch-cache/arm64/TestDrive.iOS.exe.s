@@ -465,7 +465,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "0D7ADC62-44C2-4F10-9E0B-FCCB4F87422A"
+	.asciz "E787A0C0-7AEE-4BE6-A377-9166F280878C"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -550,7 +550,7 @@ _mono_aot_file_info:
 	.long 32,776,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0
-	.byte 113,204,111,223,64,131,189,11,163,28,116,234,132,128,159,7
+	.byte 15,179,33,12,19,141,109,85,170,8,133,201,36,87,90,212
 	.globl _mono_aot_module_TestDrive_iOS_info
 	.align 3
 _mono_aot_module_TestDrive_iOS_info:
