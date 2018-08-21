@@ -49,7 +49,8 @@
 /Users/cmdev/Documents/TestDrive/TestDrive.iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.4.1/coremlc/_PartialAppManifest.items
 /Users/cmdev/Documents/TestDrive/TestDrive.iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.4.1/coremlc/_BundleResourceWithLogicalName.items
 /Users/cmdev/Documents/TestDrive/TestDrive.iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.4.1/optimized/
-/Users/cmdev/Documents/TestDrive/TestDrive.iOS/obj/iPhone/Debug/TestDrive.iOS.csprojResolveAssemblyReference.cache
 /Users/cmdev/Documents/TestDrive/TestDrive.iOS/obj/iPhone/Debug/TestDrive.iOS.csproj.CoreCompileInputs.cache
 /Users/cmdev/Documents/TestDrive/TestDrive.iOS/obj/iPhone/Debug/TestDrive.iOS.exe
 /Users/cmdev/Documents/TestDrive/TestDrive.iOS/obj/iPhone/Debug/TestDrive.iOS.pdb
+/Users/cmdev/Documents/TestDrive/TestDrive.iOS/obj/iPhone/Debug/TestDrive.iOS.csprojAssemblyReference.cache
+/Users/cmdev/Documents/TestDrive/TestDrive.iOS/obj/iPhone/Debug/TestDrive.iOS.csproj.CopyComplete

@@ -24,9 +24,13 @@
 @class UITableViewSource;
 @class UIWebViewDelegate;
 @class Foundation_InternalNSNotificationHandler;
+@class Foundation_NSDispatcher;
 @class __MonoMac_NSActionDispatcher;
+@class __MonoMac_NSSynchronizationContextDispatcher;
 @class __Xamarin_NSTimerActionDispatcher;
+@class Foundation_NSAsyncDispatcher;
 @class __MonoMac_NSAsyncActionDispatcher;
+@class __MonoMac_NSAsyncSynchronizationContextDispatcher;
 @class Xamarin_Forms_Platform_iOS_FormsApplicationDelegate;
 @class AppDelegate;
 @class GLKit_GLKView__GLKViewDelegate;

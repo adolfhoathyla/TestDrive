@@ -4,10 +4,10 @@
         <TableView>
             <TableRoot>
                 <TableSection Title="Acessórios">
-                    <SwitchCell Text="{Binding FreioABS.Resumo}" On="true"></SwitchCell>  
-                    <SwitchCell Text="{Binding ArCondicionado.Resumo}"></SwitchCell>
-                    <SwitchCell Text="{Binding Mp3Player.Resumo}"></SwitchCell>
-                    <TextCell Text="Total: R$ 5000,00"></TextCell>
+                    <SwitchCell Text="{Binding FreioABS.Resumo}" OnChanged="Freio_OnChanged" On="{Binding FreioABS.Ativo, Mode=TwoWay}"></SwitchCell>  
+                    <SwitchCell Text="{Binding ArCondicionado.Resumo}" OnChanged="ArCondicionado_OnChanged" On="{Binding ArCondicionado.Ativo, Mode=TwoWay}"></SwitchCell>
+                    <SwitchCell Text="{Binding Mp3Player.Resumo}" OnChanged="Mp3Player_OnChanged" On="{Binding Mp3Player.Ativo,Mode=TwoWay}"></SwitchCell>
+                    <TextCell Text="{Binding ValorTotal}"></TextCell>
                 </TableSection>
             </TableRoot>
         </TableView>
